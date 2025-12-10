@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 gradebook.py
-Author: [Bhavesh Singh Naula]
+Author: [Ankur Singh Negi]
 Date: [25-11-2025]
 Title: GradeBook Analyzer - Programming for Problem Solving using Python
 Description: CLI tool to input student marks (manual or CSV), compute stats,
@@ -255,3 +255,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
