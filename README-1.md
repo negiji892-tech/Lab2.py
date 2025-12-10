@@ -23,7 +23,7 @@ A Python-based CLI tool that helps teachers quickly analyse student marks, calcu
 
 # ✨ Author
 
-**Bhavesh Singh Naula**  
+**Ankur Singh Negi**  
 Programming for Problem Solving using Python  
 Mini Project – GradeBook Analyzer  
 
